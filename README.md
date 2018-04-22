@@ -140,6 +140,7 @@ Install dev-dependencies (Ubuntu)
 apt-get update -y && apt-get -y install git cmake build-essential libssl-dev pkg-config libboost-all-dev libsodium-dev
 ```
 ```bash
+chmod +x ./linu-build.sh
 ./linux-build.sh
 ```
 
